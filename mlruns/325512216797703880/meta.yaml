@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/nadit/Downloads/DataVersionControl/testingDVC/mlruns/325512216797703880
+creation_time: 1736260811556
+experiment_id: '325512216797703880'
+last_update_time: 1736260811556
+lifecycle_stage: active
+name: RandomForestExperiment

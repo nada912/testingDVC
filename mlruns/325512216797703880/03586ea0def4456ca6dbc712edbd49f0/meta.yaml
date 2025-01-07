@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nadit/Downloads/DataVersionControl/testingDVC/mlruns/325512216797703880/03586ea0def4456ca6dbc712edbd49f0/artifacts
+end_time: 1736261135032
+entry_point_name: ''
+experiment_id: '325512216797703880'
+lifecycle_stage: active
+run_id: 03586ea0def4456ca6dbc712edbd49f0
+run_name: grandiose-finch-925
+run_uuid: 03586ea0def4456ca6dbc712edbd49f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736261130759
+status: 3
+tags: []
+user_id: nadit

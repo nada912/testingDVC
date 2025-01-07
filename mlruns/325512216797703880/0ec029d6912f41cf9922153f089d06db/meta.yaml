@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nadit/Downloads/DataVersionControl/testingDVC/mlruns/325512216797703880/0ec029d6912f41cf9922153f089d06db/artifacts
+end_time: 1736260826723
+entry_point_name: ''
+experiment_id: '325512216797703880'
+lifecycle_stage: active
+run_id: 0ec029d6912f41cf9922153f089d06db
+run_name: enthused-boar-234
+run_uuid: 0ec029d6912f41cf9922153f089d06db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736260820265
+status: 3
+tags: []
+user_id: nadit

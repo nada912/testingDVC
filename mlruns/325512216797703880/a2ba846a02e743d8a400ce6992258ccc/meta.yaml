@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nadit/Downloads/DataVersionControl/testingDVC/mlruns/325512216797703880/a2ba846a02e743d8a400ce6992258ccc/artifacts
+end_time: 1736261138366
+entry_point_name: ''
+experiment_id: '325512216797703880'
+lifecycle_stage: active
+run_id: a2ba846a02e743d8a400ce6992258ccc
+run_name: aged-cow-620
+run_uuid: a2ba846a02e743d8a400ce6992258ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736261135060
+status: 3
+tags: []
+user_id: nadit
