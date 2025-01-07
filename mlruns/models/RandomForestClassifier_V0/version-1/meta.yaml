@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736261843062
+current_stage: None
+description: null
+last_updated_timestamp: 1736261843062
+name: RandomForestClassifier_V0
+run_id: 03586ea0def4456ca6dbc712edbd49f0
+run_link: null
+source: file:///c:/Users/nadit/Downloads/DataVersionControl/testingDVC/mlruns/325512216797703880/03586ea0def4456ca6dbc712edbd49f0/artifacts/RandomForestClassifier_V0
+status: READY
+status_message: null
+storage_location: file:///c:/Users/nadit/Downloads/DataVersionControl/testingDVC/mlruns/325512216797703880/03586ea0def4456ca6dbc712edbd49f0/artifacts/RandomForestClassifier_V0
+user_id: null
+version: 1
